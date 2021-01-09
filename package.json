@@ -1,0 +1,22 @@
+{
+  "name": "vscode-type-acquisition-demo",
+  "version": "1.0.0",
+  "description": "For VSCode typeAcquisition demo",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzz4012650/vscode-type-acquisition-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzz4012650/vscode-type-acquisition-demo/issues"
+  },
+  "homepage": "https://github.com/jzz4012650/vscode-type-acquisition-demo#readme",
+  "dependencies": {
+    "@aaa/some-package-with-types": "^1.0.0"
+  }
+}

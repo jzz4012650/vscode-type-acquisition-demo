@@ -1,0 +1,7 @@
+{
+    "typeAcquisition": {
+        "include": [
+            "@aaa/some-package-with-types"
+        ]
+    }
+}
